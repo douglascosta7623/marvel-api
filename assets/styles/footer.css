@@ -3,6 +3,7 @@ footer {
   text-align: center;
   color: var(--font-white);
   padding: 16px;
+  bottom: 0;
 }
 
 footer a {

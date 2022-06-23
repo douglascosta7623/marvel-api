@@ -1,0 +1,17 @@
+@media screen and (max-width: 880px) {
+  .hero__info {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-areas:
+      "hero-subtitle"
+      "hero-title"
+      "hero-text"
+      "hero-picture"
+      "hero-table"
+      "aside";
+  }
+
+  /* aside {
+    display: none;
+  } */
+}
